@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DioBarVolume</string>
+    <string name="result">Hasil</string>
+    <string name="calc">Hitung</string>
+    <string name="height">Tinggi</string>
+    <string name="width">Lebar</string>
+    <string name="length">Panjang</string>
+</resources>
